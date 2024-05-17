@@ -1,5 +1,11 @@
-### Hi there 👋
+###Boas vindas ao meu perfil 💙💙
+Meu nome é Maykon Gonçalves
 
+*Estou estudando na Alura
+*Estou me desenvolvendo na linguagem JavaScript
+*Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+*Você pode entrar em contato comigo em:
+ 00001118070276SP@al.educacao.sp.gov.br
 <!--
 **nadavergames/nadavergames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
